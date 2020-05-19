@@ -1,7 +1,7 @@
 # Blockchain-in-JAVA
 Implemented a simple blockchain using JAVA just to demonstrate how the entire chain works
 
-TestBlockchain is the main JAVA file.
+TestBlockchain.java is the main JAVA file.
 
 Compile and run the code:
 
